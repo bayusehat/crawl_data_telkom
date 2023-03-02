@@ -1,0 +1,13 @@
+<?php
+//$cookie = "Cookie: _ga=GA1.3.907807121.1543547976; iNotesServer=mail05a; TS01ce84cd=019a818beeb8b8e7dc956d7410ba8b65c7e3554da9ced3d4fdfe309a463598051cff17fdc62d94847dc0cc889e97c6c19f278b571a18e41d911fe5caf532e696da739976e8d0eddd3f4a191f1d499104040e6ea3ea59b66f34dc201e7fea4e36bf36c3d85e; Apache=10.62.136.38.1546592534916955; CEMTracking=10.62.136.33.1546592534943081; CMSSelectedLanguage=id_ID; CMSNavPath=IndiHome Fiber | Internet Cepat | Internet Indonesia | Internet Rumah | Fixed Broadband | internet Rumah cepat; prabacored=f435pqbq01i0k4uh8fosj6lta5; sidebar_closed=0; TS018c0778=019a818beed9a384ba69105feb6541441bc6b292a20945218d2b216428ed362cad14a1ccf2835b3024163d942b2a33fb48add259e833a39ee9f63ea70a68d585083f04d372944507a4bcd7e96065f0fd6c26c28887; TS01eb5cbb=0195ad995835e585e0141419918a10c2a70b192aef09a3fc99011a27a330abae112255dd486ea0a8e2ca639714acc1204d844325d08e603255f855db7f2019fe8012b06bc4246df6a8f30b28eaaf2d686ed3563da11c72da1a733eec00bc7004633fb03fe2dddd2afc4dd559ef7f0a986df01a6407; LtpaToken=i+pZO0uWk0ozFGkcPb+3AlcLuQdhXfxhCEkWvNXrHgc4sXusCOWZr5+cy7hVwMYREh6Ex0OQJuL3MEBEUkosOrb4OuCDv7ez3ENN8560gsFMo8PcnP8e3n8gncrPUjuPvFVQSuF4wxqWLZViUApr8ES+/cRq5fVI1D/zmPrv9wHZ0pFNBQe7UZtAMe10Upfvqr+gniVrpoEOjUZDuqq3XgXNBVk5aZRUPrgKPVsAHOfGbIsl4AtDqB99y5chQBOp43mCf9GdjjtQEsW/swt1YQxAW4NS7SYtBOPF5I9qtxAmYcFIxuZK2wantxuQTw0oyr9wp/WZK4EfcrolFesuC9dpsIk87Dal; ADRUM=s=1548927620541&r=https%3A%2F%2Fmail.telkom.co.id%2F%3F0; _gid=GA1.3.50547974.1549444661; BIGipServerpool_dashboard=!IZ5jQaUUeUgAgGwgLeD3dyuMAGpigQ4tH97HGokkzUNl+RjHbXDmVwlAg4IqVqwKZP4NUKnJMf7q/+0=";
+
+$cookie = "Cookie: BIGipServerpool_dashboard=!f6nJH9HV50xRZuwgLeD3dyuMAGpigU0sjcrM9rly0f4YpSXhDzSpshUhKlxAHUoiugcNAFJyajAkXCw=; dashboardtelkom=qqmomsk8f5i258gsbs9vqi27a7";
+
+$cookie_cbd = 'Cookie: BIGipServerpool_dashboard=!bDOuZ9kusXOmYOIgLeD3dyuMAGpigYz6nUIfTs/B80eBsghJkf8bydZgK/VJyqfaUeG6X247my3BAvw=; dashboardtelkom=lc2sih01m70r0lue4t96rj1od4';
+
+$cookie_nntr = "Cookie: PHPSESSID=hl6fn8tu0odqq0ahoomu7lr2kq";
+
+$cookie_kpro = "Cookie: dashboardtelkom=v4hse795s42qhchr16mlovvf16; BIGipServerpool_dashboard=!f7RpL38F9EJ8qG5k3C7+PF/RvgT/vDD/lMdk+mnCTbe5lawUTHgEyq+WfYW68mNtBx8oiBRhQ5ks5xI=";
+
+$cookie_alexa = "Cookie: ci_session=bf359a79e978a26d27189e0130753a8ec767d707";
+?>
